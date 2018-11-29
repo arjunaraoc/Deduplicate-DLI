@@ -8,7 +8,7 @@ The software is preliminary and would need lots of cleanup
 
 ## Usage
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/Deduplicate-DLI/7a7a37e)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arjunaraoc/Deduplicate-DLI/14339b3)
 
 OR
 
